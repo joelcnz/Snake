@@ -1,0 +1,16 @@
+{
+    "name": "snake",
+    "description": "A minimal D application.",
+    "copyright": "Copyright © 2013, Jeremy",
+    "authors": ["Jeremy", "Joel"],
+    "lflags-osx" : ["-L../../DSFMLlibs"],
+    "sourcePaths" : ["source",
+        "../../JecLib/source",
+        "../../JMiscLib/source",
+        "../../IniLib/source"],
+    "dependencies": 
+    {
+        "dsfml:graphics": "~>2.1",
+		"dsfml:audio": "~>2.1"
+    }
+}
