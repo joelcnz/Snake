@@ -1,0 +1,3 @@
+Time: 0:04:8, Turns: 4, Score: 1
+Time: 0:05:46, Turns: 5, Score: 2
+Time: 0:03:86, Turns: 5, Score: 0

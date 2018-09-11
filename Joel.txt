@@ -10,7 +10,6 @@ Joel 73
 Joel 1
 Joel 0
 Sunday 1 April 2018 [ 2:18:15pm] Joel 101
-Sunday 1 April 2018 [ 2:18:15pm] Joel 0
 Joel - Time: 3:33.936, Score: 72
 Joel - Time: 1:01.270, Score: 18
 Joel - Time: 1:09.740, Score: 27
@@ -22,3 +21,179 @@ Joel - Time: 3:35.32, Score: 75
 Joel - Time: 0:10.56, Score: 5
 Joel - Time: 1:19.9, Score: 29
 Joel - Time: 3:04.97, Score: 68
+Joel - Time: 3:27.49, Score: 73
+Joel - Time: 3:28.87, Score: 71
+Joel - Time: 3:52.72, Score: 76
+Joel - Time: 3:23.8, Score: 68
+Joel - Time: 4:13.75, Score: 89
+Joel - Time: 3:38:51, Score: 62
+Joel - Time: 0:36:99, Score: 13
+Joel - Time: 0:25:3, Score: 8
+Joel - Time: 1:08:53, Score: 27
+Joel - Time: 0:06:7, Score: 0
+Joel - Time: 0:00:0, Score: 0
+Joel - Time: 0:07:28, Score: 1
+Joel - Time: 0:00:0, Score: 0
+Joel - Time: 0:30:13, Score: 13
+Joel - Time: 0:06:0, Score: 1
+Joel - Time: 0:00:0, Score: 0
+Joel - Time: 0:34:52, Score: 16
+Joel - Time: 0:00:0, Score: 0
+Joel - Time: 0:32:81, Score: 14
+Joel - Time: 0:00:0, Score: 0
+Joel - Time: 0:25:10, Score: 9
+Joel - Time: 0:00:0, Score: 0
+Joel - Time: 0:00:0, Score: 0
+Joel - Time: 0:14:56, Score: 5
+Joel - Time: 1:21:84, Score: 32
+Joel - Time: 1:17:23, Score: 27
+Joel - Time: 1:23:82, Score: 31
+Joel - Time: 1:25:59, Score: 31
+Joel - Time: 1:14:31, Score: 27
+Joel - Time: 0:29:14, Score: 12
+Joel - Time: 0:54:16, Score: 20
+Joel - Time: 0:02:71, Score: 1
+Joel - Time: 0:00:0, Score: 0
+Joel - Time: 0:54:9, Score: 22
+Joel - Time: 0:00:0, Score: 0
+Joel - Time: 1:01:3, Score: 18
+Joel - Time: 1:17:14, Score: 26
+Joel - Time: 0:12:99, Score: 3
+Joel - Time: 1:40:45, Score: 37
+Joel - Time: 2:06:15, Score: 44
+Joel - Time: 0:26:71, Score: 7
+Joel - Time: 0:02:88, Score: 1
+Joel - Time: 0:00:0, Score: 0
+Joel - Time: 2:17:72, Score: 44
+Joel - Time: 0:02:65, Score: 0
+Joel - Time: 0:00:0, Score: 0
+Joel - Time: 0:37:86, Score: 14
+Joel - Time: 0:00:0, Score: 0
+Joel - Time: 0:08:24, Score: 2
+14 5 2018 Joel - Time: 3:13:26, Score: 72 At a study
+Monday 14 May 2018 [10:28:10am] - Time: 4:43:59, Score: 94
+Monday 14 May 2018 [10:35:24am] - Time: 0:33:39, Score: 12
+Monday 14 May 2018 [10:35:24am] - Time: 0:00:0, Score: 0
+Monday 14 May 2018 [10:41:02am] - Time: 0:23:61, Score: 8
+Monday 14 May 2018 [10:41:04am] - Time: 0:01:80, Score: 1
+Monday 14 May 2018 [10:41:04am] - Time: 0:00:0, Score: 0
+Monday 14 May 2018 [10:41:04am] - Time: 0:00:0, Score: 0
+Monday 14 May 2018 [10:42:49am] - Time: 0:02:68, Score: 0
+Monday 14 May 2018 [10:42:49am] - Time: 0:00:0, Score: 0
+Monday 14 May 2018 [10:46:44am] - Time: 2:08:6, Score: 49
+Monday 14 May 2018 [10:50:58am] - Time: 3:14:89, Score: 71
+Monday 14 May 2018 [ 7:07:43pm] - Time: 0:54:27, Score: 23
+Monday 14 May 2018 [ 7:08:22pm] - Time: 0:39:50, Score: 14
+Monday 14 May 2018 [ 7:11:22pm] - Time: 2:59:88, Score: 71
+Monday 14 May 2018 [ 7:26:30pm] - Time: 1:38:1, Score: 39
+Monday 14 May 2018 [ 7:27:29pm] - Time: 0:00:62, Score: 0
+Monday 14 May 2018 [ 7:27:29pm] - Time: 0:00:0, Score: 0
+Tuesday 15 May 2018 [ 5:20:46am] - Time: 1:28:35, Score: 34
+Tuesday 15 May 2018 [ 5:20:48am] - Time: 0:01:69, Score: 0
+Tuesday 15 May 2018 [ 5:20:48am] - Time: 0:00:0, Score: 0
+Tuesday 15 May 2018 [ 5:21:24am] - Time: 0:36:19, Score: 13
+Tuesday 15 May 2018 [ 5:21:24am] - Time: 0:00:0, Score: 0
+Tuesday 15 May 2018 [ 5:21:24am] - Time: 0:00:0, Score: 0
+Tuesday 15 May 2018 [ 5:31:24am] - Time: 1:06:21, Score: 23
+Tuesday 15 May 2018 [11:39:42am] - Time: 0:43:44, Score: 16
+Tuesday 15 May 2018 [11:39:42am] - Time: 0:00:0, Score: 0
+Tuesday 15 May 2018 [11:39:42am] - Time: 0:00:0, Score: 0
+Tuesday 15 May 2018 [11:40:28am] - Time: 0:46:90, Score: 16
+Tuesday 15 May 2018 [11:40:42am] - Time: 0:13:45, Score: 4
+Tuesday 15 May 2018 [11:43:19am] - Time: 2:37:1, Score: 56
+Tuesday 15 May 2018 [12:22:20pm] - Time: 2:12:10, Score: 51
+With joystick hat {
+Tuesday 15 May 2018 [ 1:05:01pm] - Time: 0:06:84, Score: 0
+Tuesday 15 May 2018 [ 1:05:01pm] - Time: 0:00:0, Score: 0
+Tuesday 15 May 2018 [ 1:05:37pm] - Time: 0:36:79, Score: 7
+Tuesday 15 May 2018 [ 1:06:23pm] - Time: 0:45:4, Score: 15
+Tuesday 15 May 2018 [ 1:06:29pm] - Time: 0:06:14, Score: 1
+Tuesday 15 May 2018 [ 1:06:29pm] - Time: 0:00:0, Score: 0
+Tuesday 15 May 2018 [ 1:06:29pm] - Time: 0:00:70, Score: 0
+Tuesday 15 May 2018 [ 1:06:29pm] - Time: 0:00:0, Score: 0
+Tuesday 15 May 2018 [ 1:08:27pm] - Time: 1:57:75, Score: 43
+Wednesday 16 May 2018 [ 9:45:53am] - Time: 0:37:20, Score: 2
+Wednesday 16 May 2018 [ 9:45:53am] - Time: 0:00:70, Score: 0
+Wednesday 16 May 2018 [ 9:45:53am] - Time: 0:00:0, Score: 0
+Wednesday 16 May 2018 [ 9:46:52am] - Time: 0:58:12, Score: 20
+Wednesday 16 May 2018 [10:22:20am] - Time: 0:01:74, Score: 0
+Wednesday 16 May 2018 [10:22:20am] - Time: 0:00:0, Score: 0
+Wednesday 16 May 2018 [10:24:29am] - Time: 2:09:3, Score: 38
+Wednesday 16 May 2018 [10:25:51am] - Time: 0:33:91, Score: 7
+Wednesday 16 May 2018 [11:08:29am] - Time: 0:07:73, Score: 1
+Wednesday 16 May 2018 [11:08:29am] - Time: 0:00:0, Score: 0
+Wednesday 16 May 2018 [11:08:35am] - Time: 0:06:5, Score: 3
+Wednesday 16 May 2018 [11:08:36am] - Time: 0:01:2, Score: 0
+Wednesday 16 May 2018 [11:08:36am] - Time: 0:00:0, Score: 0
+Wednesday 16 May 2018 [11:09:35am] - Time: 0:58:29, Score: 15
+Wednesday 16 May 2018 [11:10:57am] - Time: 1:22:26, Score: 24
+}
+Thursday 17 May 2018 [12:38:57pm] - Time: 0:54:16, Score: 22
+Thursday 17 May 2018 [ 1:07:54pm] - Time: 1:10:50, Score: 22
+Thursday 17 May 2018 [ 1:10:04pm] - Time: 1:33:25, Score: 22
+Thursday 17 May 2018 [ 1:34:19pm] - Time: 0:06:97, Score: 0
+Thursday 17 May 2018 [ 1:34:19pm] - Time: 0:00:0, Score: 0
+Thursday 17 May 2018 [ 1:34:20pm] - Time: 0:00:70, Score: 0
+Thursday 17 May 2018 [ 1:34:20pm] - Time: 0:00:0, Score: 0
+Thursday 17 May 2018 [ 1:34:35pm] - Time: 0:15:42, Score: 7
+Thursday 17 May 2018 [ 1:34:54pm] - Time: 0:18:76, Score: 5
+Thursday 17 May 2018 [ 1:36:08pm] - Time: 1:14:29, Score: 27
+Thursday 17 May 2018 [ 1:36:44pm] - Time: 0:35:52, Score: 13
+Thursday 17 May 2018 [ 1:37:12pm] - Time: 0:27:94, Score: 8
+Thursday 17 May 2018 [ 1:37:46pm] - Time: 0:33:91, Score: 12
+Thursday 17 May 2018 [ 1:51:12pm] - Time: 0:29:9, Score: 6
+Thursday 17 May 2018 [ 1:51:19pm] - Time: 0:07:55, Score: 2
+Thursday 17 May 2018 [ 1:51:59pm] - Time: 0:39:85, Score: 12
+Thursday 17 May 2018 [ 1:54:49pm] - Time: 2:49:89, Score: 58
+Thursday 17 May 2018 [ 2:01:39pm] - Time: 0:40:96, Score: 12
+Saturday 26 May 2018 [12:48:05am] Time: 1:26:61, Turns: 66, Score: 22
+Saturday 26 May 2018 [ 1:31:02am] Time: 0:07:63, Turns: 9, Score: 2
+Saturday 26 May 2018 [ 1:34:29am] Time: 2:23:78, Turns: 196, Score: 51
+Saturday 26 May 2018 [ 1:35:11am] Time: 0:05:19, Turns: 4, Score: 1
+Saturday 26 May 2018 [ 1:14:58pm] Time: 0:14:91, Turns: 2, Score: 0
+Saturday 26 May 2018 [ 1:17:59pm] Time: 0:05:69, Turns: 4, Score: 1
+Sunday 17 June 2018 [ 8:28:05pm] Time: 2:11:95, Turns: 153, Score: 38
+Friday 25 May 2018 [ 4:56:23am]Time: 0:16:99 - , Turns: 16, Score: 5
+Friday 25 May 2018 [ 4:56:25am]Time: 0:01:39 - , Turns: 19, Score: 0
+Friday 25 May 2018 [ 4:56:25am]Time: 0:00:0 - , Turns: 19, Score: 0
+Friday 25 May 2018 [ 4:56:31am]Time: 0:06:58 - , Turns: 26, Score: 3
+Friday 25 May 2018 [ 4:58:46am]Time: 0:39:86 - , Turns: 48, Score: 14
+Friday 25 May 2018 [ 5:02:29am]Time: 3:43:3 - , Turns: 278, Score: 77
+Friday 25 May 2018 [ 5:02:29am]Time: 0:00:33 - , Turns: 1, Score: 0
+Friday 25 May 2018 [ 5:02:29am]Time: 0:00:0 - , Turns: 0, Score: 0
+Friday 25 May 2018 [ 5:05:50am] Time: 2:10:13, Turns: 166, Score: 49
+Saturday 26 May 2018 [12:38:32am] Time: 0:07:39, Turns: 1, Score: 0
+Saturday 26 May 2018 [12:38:32am] Time: 0:00:0, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:38:40am] Time: 0:07:81, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:38:40am] Time: 0:00:0, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:38:42am] Time: 0:01:56, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:38:42am] Time: 0:00:0, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:38:43am] Time: 0:00:84, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:38:43am] Time: 0:00:0, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:38:44am] Time: 0:01:41, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:38:44am] Time: 0:00:0, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:38:47am] Time: 0:03:34, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:38:47am] Time: 0:00:0, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:39:38am] Time: 0:03:0, Turns: 1, Score: 0
+Saturday 26 May 2018 [12:39:38am] Time: 0:00:0, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:39:39am] Time: 0:01:5, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:39:39am] Time: 0:00:0, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:39:40am] Time: 0:00:94, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:39:40am] Time: 0:00:0, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:41:35am] Time: 0:04:34, Turns: 1, Score: 0
+Saturday 26 May 2018 [12:41:35am] Time: 0:00:0, Turns: 0, Score: 0
+Saturday 26 May 2018 [12:48:05am] Time: 1:26:61, Turns: 66, Score: 22
+Thursday 24 May 2018 [ 2:07:23pm] - Time: 2:53:85, Turns: 170, Score: 51
+Thursday 24 May 2018 [ 2:39:35pm]Time: 4:39:85 - , Turns: 192, Score: 65
+Friday 22 June 2018 [ 4:33:41pm] Time: 1:13:45, Turns: 71, Score: 22 - quit (at Bruce's)
+Monday 16 July 2018 [11:35:05am] Time: 0:02:15, Turns: 3, Score: 1
+Monday 16 July 2018 [11:35:05am] Time: 0:02:16, Turns: 3, Score: 1
+Monday 16 July 2018 [11:36:46am] Time: 1:38:6, Turns: 130, Score: 34
+Wednesday 18 July 2018 [10:00:41am] Time: 2:55:48, Turns: 179, Score: 62
+Friday 20 July 2018 [ 4:41:48pm] Time: 0:48:83, Turns: 50, Score: 16
+Friday 20 July 2018 [ 4:46:47pm] Time: 2:27:60, Turns: 172, Score: 54
+Friday 20 July 2018 [ 4:46:47pm] Time: 2:27:70, Turns: 172, Score: 54
+Saturday 21 July 2018 [ 7:15:34pm] Time: 2:34:80, Turns: 172, Score: 59
+Sunday 29 July 2018 [ 2:14:03am] Time: 1:41:60, Turns: 105, Score: 35
+Wednesday 22 August 2018 [ 4:53:22am] Time: 0:55:44, Turns: 82, Score: 22
+Tuesday 4 September 2018 [ 8:19:08pm] Time: 2:17:40, Turns: 174, Score: 50

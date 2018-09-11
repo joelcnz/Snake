@@ -29,7 +29,7 @@ struct Fruit {
     void reset() {
         do {
             _pos = Point(uniform(0, g_global.windowWidth / 10), uniform(0, g_global.windowHeight / 10));
-        } while(g_global.snake.checkForHit(_pos));
+        } while(g_global.snakes[0].checkForHit(_pos) || g_global.snakes[1].checkForHit(_pos));
         _block.position = Vector2f(_pos.X * 10, _pos.Y * 10);
     }
 

@@ -1,6 +1,7 @@
 module base;
 
 public {
+    import std.stdio : writeln, writefln;
     import std.random;
 
 	import jmisc;
@@ -9,12 +10,16 @@ public {
     import snake, fruit, status;
 }
 
-import std.stdio : writeln;
 import std.datetime.stopwatch;
 
 @safe:
 enum pass = true,
 	 fail = false;
+
+enum Game {playing, paused, game_over_result, game_over}
+Game g_gameState;
+
+enum StampOrNot {stamp, noStamp}
 
 /++
 	Global variables
@@ -27,12 +32,13 @@ struct Global {
 	string fontFileName;
 	int fontSize;
 	Font font;
-    Snake snake;
+    Snake[] snakes;
     Fruit fruit;
     Status status;
     string contestent;
     StopWatch duration;
     int updateFPS;
+    int numberOfPlayers;
 
 @trusted:
 	/// basic set up
@@ -55,10 +61,10 @@ struct Global {
                 __FILE__, __FUNCTION__, __LINE__, retVal);
             return -2;
         }
-2.gh;
+//2.gh;
         immutable g_fontSize = 40;
         assert(loadFont("DejaVuSans.ttf") == pass);
-3.gh;
+//3.gh;
         immutable size = g_fontSize, lower = g_fontSize / 2;
         jx = new InputJex(/* position */ Vector2f(0, g_window.getSize.y - size - lower),
                         /* font size */ size,
@@ -74,9 +80,24 @@ struct Global {
         jx.addToHistory(WELCOME);
         jx.showHistory = false;
 
-        status.setup;
-        snake.setup;
+        status.setup(-1);
+        snakes.length = 2;
+//        "snakes.length".gh;
+        foreach(int i, ref snake; snakes)
+            snake.setup(i);
         fruit.setup;
+
+/+
+        mixin(trace("Joystick.JoystickCount"));
+        mixin(trace("Joystick.JoystickButtonCount"));
+        mixin(trace("Joystick.getButtonCount(0)"));
+        mixin(trace("Joystick.getButtonCount(1)"));
+        mixin(trace("Joystick.getButtonCount(2)"));
+
+        for(int j=0; Joystick.isConnected(j); j += 1)
+            writeln("Joystick ", j, " is connected!");
+  +/      
+        g_gameState = Game.playing;
 
 		return pass;
 	}
@@ -100,12 +121,23 @@ struct Global {
     }
 
     void process() {
-        snake.process;
+        if (g_global.status._gameStatus != Game.game_over)
+            foreach(ref snake; snakes[0 .. g_global.numberOfPlayers])
+                snake.process;
     }
 
     void draw() {
-        snake.draw;
         fruit.draw;
+        foreach(snake; snakes[0 .. g_global.numberOfPlayers])
+            snake.draw;
+        status.draw;
+    }
+
+    void reset() {
+        foreach(int i, ref snake; snakes)
+            snake.reset;
+        fruit.setup;
+        status._gameStatus = Game.playing;
     }
 }
 Global g_global;
